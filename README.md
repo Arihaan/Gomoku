@@ -9,4 +9,4 @@ Developed as part of the Programming 1 course at Charles University, Prague. Tes
 
 Expected interface:
 
-<a href="https://raw.githubusercontent.com/Arihaan/Gomoku/main/Gomoku%20Screenshots/Screen%20Shot%202021-12-14%20at%204.23.16%20PM.png">Main Menu</a>
+<img src="https://raw.githubusercontent.com/Arihaan/Gomoku/main/Gomoku%20Screenshots/Screen%20Shot%202021-12-14%20at%204.23.16%20PM.png">Main Menu</img>
