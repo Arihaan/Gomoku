@@ -7,7 +7,7 @@ Download and run gomoku.py to play the game. The look of the game may vary acros
 
 Developed as part of the Programming 1 course at Charles University, Prague. Tested on macOS Monterey, Windows 10 and Kali.
 
-# Screenshots
+## Screenshots
 Main Menu:
 <img src="https://raw.githubusercontent.com/Arihaan/Gomoku/main/Gomoku%20Screenshots/Screen%20Shot%202021-12-14%20at%204.23.16%20PM.png">Main Menu</img>
 
