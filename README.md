@@ -12,7 +12,7 @@ Main Menu:
 <img src="https://raw.githubusercontent.com/Arihaan/Gomoku/main/Gomoku%20Screenshots/Screen%20Shot%202021-12-14%20at%204.23.16%20PM.png"></img>
 
 Player Name Screen:
-<img src="https://raw.githubusercontent.com/Arihaan/Gomoku/main/Gomoku%20Screenshots/Screen%20Shot%202021-12-14%20at%204.23.52%20PM.png"></img>
+<img src="https://raw.githubusercontent.com/Arihaan/Gomoku/main/Gomoku%20Screenshots/Screen%20Shot%202021-12-14%20at%208.51.37%20PM.png"></img>
 
 Gameplay:
 <img src="https://raw.githubusercontent.com/Arihaan/Gomoku/main/Gomoku%20Screenshots/Screen%20Shot%202021-12-14%20at%204.24.27%20PM.png"></img>
