@@ -7,6 +7,16 @@ Download and run gomoku.py to play the game. The look of the game may vary acros
 
 Developed as part of the Programming 1 course at Charles University, Prague. Tested on macOS Monterey, Windows 10 and Kali.
 
-Expected interface:
-
+# Screenshots
+Main Menu:
 <img src="https://raw.githubusercontent.com/Arihaan/Gomoku/main/Gomoku%20Screenshots/Screen%20Shot%202021-12-14%20at%204.23.16%20PM.png">Main Menu</img>
+
+Player Name Screen:
+<img src="https://raw.githubusercontent.com/Arihaan/Gomoku/main/Gomoku%20Screenshots/Screen%20Shot%202021-12-14%20at%204.23.52%20PM.png">Player Choose</img>
+
+Gameplay:
+<img src="https://raw.githubusercontent.com/Arihaan/Gomoku/main/Gomoku%20Screenshots/Screen%20Shot%202021-12-14%20at%204.24.27%20PM.png">Gameplay</img>
+
+Instructions menu:
+<img src="https://raw.githubusercontent.com/Arihaan/Gomoku/main/Gomoku%20Screenshots/Screen%20Shot%202021-12-14%20at%204.24.42%20PM.png">Gameplay</img>
+
